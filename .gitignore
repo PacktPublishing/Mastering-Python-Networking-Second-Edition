@@ -46,6 +46,9 @@ Network Trash Folder
 Temporary Items
 .apdisk
 
+# Ansible gitignore
+*.retry
+
 # Python gitignore
 
 # Byte-compiled / optimized / DLL files
