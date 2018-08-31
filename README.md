@@ -1,6 +1,3 @@
-# Mastering-Python-Networking - Second-Edition
-Mastering Python Networking, Second Edition published by, Packt Publishing
-
 # Mastering Python Networking - Second Edition
 
 <a href="https://www.packtpub.com/networking-and-servers/mastering-python-networking-second-edition?utm_source=repository&utm_medium=github&utm_campaign=repository&utm_term=9781789135992"><img src="https://d1ldz4te4covpm.cloudfront.net/sites/default/files/imagecache/ppv4_main_book_cover/B10652_MockupCover.png" alt="Mastering Python Networking - Second Edition" height="256px" align="right"></a>
