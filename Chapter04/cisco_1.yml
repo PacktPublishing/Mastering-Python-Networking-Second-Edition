@@ -1,6 +1,6 @@
 ---
 - name: Configure SNMP Contact
-  hosts: "nexus"
+  hosts: "nxosv-devices"
   gather_facts: false
   connection: local
 
