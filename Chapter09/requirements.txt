@@ -9,4 +9,4 @@ Werkzeug==0.9.6
 httpie==0.8.0
 itsdangerous==0.24
 python-dateutil==2.2
-requests==2.3.0
+requests==2.20.0
